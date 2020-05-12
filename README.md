@@ -90,6 +90,7 @@
 ## 文集
 1. [张博树：中国宪政改革可行性研究报告(全文)](http://minzhuzhongguo.org/sz/report.pdf)
     >通过这份报告，你能理解几乎整个国家机器的设计理念、运作方式、各种弊端，区别真正的解决方案和敷衍的补救措施，这样当你亲历或目睹各类社会问题时不至于因信息封锁而产生以下幼稚的想法，如“这个弊端竟然没有人发现，我要向组织汇报！”，“中央的本意是好的，就是被下面人执行歪了”，“中国的种种问题都是那些走资派当权派钻马列毛主义的空子造成的，应该革他们的命”。一旦避开这些注定会碰壁的弯路，你能更早明白自己该怎么做。
+2. [张雪忠:《新常识：一党专政的性质及后果》](./pdf/张雪忠：《新常识》.pdf)
 2. 联邦党人文集 [中文版PDF](https://www.gench.edu.cn/_upload/article/e5/bd/536c20404bc4aa8c0aeb3bef50d5/cf27ec85-7636-4841-bb68-1904909d339d.pdf), [英文版在线](http://www.let.rug.nl/usa/documents/1786-1800/the-federalist-papers/), 编程随想推荐 [博文](https://program-think.blogspot.com/2014/01/share-books.html) [Github完整书单](https://github.com/programthink/books)
 3. [民间历史-香港中文大学中国研究服务中心主办](http://mjlsh.usc.cuhk.edu.hk/Default.aspx)
 4. __强烈推荐: [立人乡村图书馆书目](./2019/liren_library_list.md)__ ，立人大学 [立大记忆](https://lirencollege.xyz/), [立大文集](https://lrc.gitbooks.io/lrc/content/)
