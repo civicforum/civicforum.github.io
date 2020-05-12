@@ -94,9 +94,9 @@
 3. [民间历史-香港中文大学中国研究服务中心主办](http://mjlsh.usc.cuhk.edu.hk/Default.aspx)
 4. __强烈推荐: [立人乡村图书馆书目](./2019/liren_library_list.md)__ ，立人大学 [立大记忆](https://lirencollege.xyz/), [立大文集](https://lrc.gitbooks.io/lrc/content/)
 5. [下架及未再版简体中文书目](./2019/removed_books.md)
-6. [豆瓣不存在的书和电影 端点星小项目](https://terminus2049.github.io/Not-exist-in-douban/)
+6. [豆瓣不存在的书和电影 端点星小项目](https://terminus2049.github.io/Not-exist-in-douban/) 说明：端点星项目负责人被捕，项目已停止更新。
 7. [新品葱精华列表](./collection/pincong_rocks.md)
-8. [Terminus 端点星](https://terminus2049.github.io/) 计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。
+8. [Terminus 端点星](https://terminus2049.github.io/) 计划，是在 GitHub 开放平台搭建的一个站点，以去中心化的方式备份微信、微博等平台被删文章。 说明：端点星项目负责人被捕，项目已停止更新。
 9. [艾瑞克.史蒂文.雷蒙德（Eric Steven Raymond）提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
 10. 学术普及网站： [政见](http://cnpolitics.org), [菜市場政治學](https://whogovernstw.org/), [巷仔口社会学](https://twstreetcorner.org/), [芭樂人類學](https://guavanthropology.tw/), [故事](https://gushi.tw/)
 11. [寒冬](https://zh.bitterwinter.org/) 一本關於中國宗教自由及人權狀況的雜誌
