@@ -86,6 +86,7 @@
 * 许章润（1962-） 清华大学法学院教授 《我们当下的恐惧与期待》[学院官方个人主页](https://www.tsinghua.edu.cn/publish/law/3563/2010/20101220194652775652930/20101220194652775652930_.html), [维基百科](https://zh.wikipedia.org/zh-hans/%E8%AE%B8%E7%AB%A0%E6%B6%A6), [非官方言论集](https://xuzhangrun.gitlab.io/)， [非官方言论集-本站镜像](https://civicforum.github.io/collection/xuzhangrun.html)
 * 丛日云 中国政法大学政治与公共管理学院教授
 * 梁木生（1958-2018），华中科技大学法学院教授，[纪念文章](https://www.jianshu.com/p/b718c669c38e) [百度百科](https://baike.baidu.com/item/%E6%A2%81%E6%9C%A8%E7%94%9F)
+* 张雪忠（1976年－），中国江西省上饶市余干县人，华东政法大学副教授、硕士生导师。以敢言抨击中国大陆政治制度和参与维权活动著称，并且因此被华东政法大学停止授课资格。2013年12月被华东政法大学正式解聘。2019年，张雪忠的律师执业证被吊销。研究与教学领域为民法。[维基百科](https://web.archive.org/web/20200512172424/https://zh.wikipedia.org/wiki/%E5%BC%A0%E9%9B%AA%E5%BF%A0 )
 
 ### 自然科学
 * 李沉简 北大教授 生命科学学院（已辞职？）[个人主页](http://scholar.pku.edu.cn/cjli/home) [Cousera Bio](https://www.coursera.org/instructor/chenjianli)
