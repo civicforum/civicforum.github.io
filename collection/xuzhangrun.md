@@ -3,6 +3,9 @@
 
 ---
 ## 时评
+1. [许章润：践踏斯文 必驱致一邪魅人间](https://chinadigitaltimes.net/chinese/2020/06/%e8%ae%b8%e7%ab%a0%e6%b6%a6%ef%bd%9c%e8%b7%b5%e8%b8%8f%e6%96%af%e6%96%87-%e5%bf%85%e9%a9%b1%e8%87%b4%e4%b8%80%e9%82%aa%e9%ad%85%e4%ba%ba%e9%97%b4/),  2020-06-26
+1. [许章润：世界文明大洋上的中国孤舟——全球体系背景下新冠疫情的政治观与文明论](https://www.chinese-future.org/articles/6j3ywr3swgp3flagdlbk3xd2wkmjcj?from=groupmessage&isappinstalled=0), 中国历史与未来 2020-05-21
+1. [许章润：愤怒的人民已不再恐惧](http://www.21join.com/index.php?m=content&c=index&a=show&catid=10&id=2570), 合传媒，2020-02-02
 1. [許章潤：中國不是一個紅色帝國（上篇：誤入歧途的潛在勢能）](https://theinitium.com/article/20190110-opinion-xuzhangrun-china-red-empire-1/), 端传媒, 2019-01-10
 2. [許章潤：中國不是一個紅色帝國（下篇：代際盲點與鬥爭哲學）](https://theinitium.com/article/20190111-opinion-xuzhangrun-china-red-empire-2/), 端传媒, 2019-01-11
 4. [許章潤：自由主義的五場戰役，兼論啟動第四波「改革開放」](https://theinitium.com/article/20181221-opinion-xuzhangrun-five-wars-liberalism/), 端传媒, 2018-12-21
@@ -85,7 +88,7 @@
 21. [《论立法与法学的当代使命》](https://web.archive.org/web/20130123154643/http://book.douban.com/subject/1247705/),  ISBN: 9787800838514
 22. [《重思胡适》](https://web.archive.org/web/20190329235948/https://book.douban.com/subject/26176512/)
 
-## 座右铭 
+## 座右铭
 半日静坐，半日读书；宽其程限，紧着工夫。
 
 ## 源
