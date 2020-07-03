@@ -1,8 +1,8 @@
-## 新品葱 [【资料汇集】政治与社会学](https://web.archive.org/web/20191014192200/https://pincong.rocks/article/4524)
+## 新品葱 [【资料汇集】政治与社会学](https://damoresclub.github.io/general-education-collection/)
 
 欢迎大家在评论区留言、补充、签到、打卡
 
-### **（一）中小学社会通识课课本**（[求推荐](https://pincong.rocks/article/4525)）
+### **（一）中小学社会通识课课本**（[求推荐](https://damoresclub.github.io/general-education-collection/)）
 
 适合所有人，基础是最容易忽视的，但是最容易补课且对个人影响最深远的。
 
@@ -18,8 +18,6 @@
 
 
 ### **（二）本科/硕士水平入门课程及教科书**
-[品葱站内相关贴](https://pincong.rocks/question/5779)
-
 
 #### 政治学基础
 
@@ -55,16 +53,16 @@
 
 #### 中国(大陆)国情
 
-（[相关讨论贴](https://pincong.rocks/question/7034)）
+（[相关讨论贴](https://be4.herokuapp.com/category/22/)）
 
 （注：1 建议先读教科书再读学术论文和著作；2 王绍光个人政治观点很偏向中共）
 
-- 王绍光：[GPAD 1070/UGEC 1540: Government and Politics in China 中国的政府和政治](https://pincong.rocks/article/4570)，课纲 http://www.cuhk.edu.hk/gpa/wang_files/1070-2015.doc 阅读资料包 http://www.cuhk.edu.hk/gpa/wang_files/1070-2015.rar
-- 王绍光：[GPGC 5001: Institution and Reform in Contemporary China 当代中国的体制和改革](https://pincong.rocks/article/4572)大纲 http://www.cuhk.edu.hk/gpa/wang_files/5001-2015.docx 阅读包 http://www.cuhk.edu.hk/gpa/wang_files/5001-2015.rar
+- 王绍光：[GPAD 1070/UGEC 1540: Government and Politics in China 中国的政府和政治]，课纲 http://www.cuhk.edu.hk/gpa/wang_files/1070-2015.doc 阅读资料包 http://www.cuhk.edu.hk/gpa/wang_files/1070-2015.rar
+- 王绍光：[GPGC 5001: Institution and Reform in Contemporary China 当代中国的体制和改革]大纲 http://www.cuhk.edu.hk/gpa/wang_files/5001-2015.docx 阅读包 http://www.cuhk.edu.hk/gpa/wang_files/5001-2015.rar
 - Harvard Extension School, [China: Traditions and Transformations](https://www.extension.harvard.edu/open-learning-initiative/china-history), Professors Peter K. Bol, William C. Kirby. [ChinaX: China's past, present and future](https://www.edx.org/chinax-chinas-past-present-future)哈佛拓展学院，中国：传统和转型，Peter K. Bol，William C. Kirby教授。
 - [Richard Baum (包瑞嘉)](https://en.wikipedia.org/wiki/Richard_Baum), Fall and Rise of China, [The Great Course Plus](https://www.thegreatcoursesplus.com/show/fall_and_rise_of_china), [YouTube List](https://www.youtube.com/playlistlist=PL7Df0vIaExSCZsIRgTaInNE7NuWcYBB4m)
-- 周雪光，专著 [中国国家治理的制度逻辑-一个组织学研究](https://web.stanford.edu/~xgzhou/zhou_book2017.pdf)，（[推荐贴](https://pincong.rocks/article/716)）
-- 张博树，[《中国宪政改革可行性研究报告（全本）》](https://pincong.rocks/article/331)
+- 周雪光，专著 [中国国家治理的制度逻辑-一个组织学研究](https://web.stanford.edu/~xgzhou/zhou_book2017.pdf)
+- 张博树，[《中国宪政改革可行性研究报告（全本）》](./pdf/zhangboshu_report.pdf)
 - 袁剑，《奇迹的黄昏》[https://www.bannedbook.net/resources/file/472](https://www.bannedbook.net/resources/file/472)
 - 冯军旗，北大博士论文《中县干部》[https://www.bannedbook.org/resources/file/257](https://www.bannedbook.org/resources/file/257)
 - [黎安友](https://scholar.google.com/citationsuser=NRvRzYcAAAAJ&hl=en)、施道安Andrew J. Nathan、Andrew Scobell，寻求安全感的中国：从中国人的角度看中国的对外关係China’s Search for Security
@@ -74,7 +72,7 @@ Journal of Democracy, Volume 14, Number 1, Jan 2003
 （从极权统治到韧性威权：中国政治变迁之路Political change in China: from totalitarian rule to
  resilient authoritarianism）
 - 梁啟智 《香港第一课》[Google Drive PDF下载](https://drive.google.com/file/d/13kfE01KEKUVTh0OU3j3cONfSHrIyyxlO/view)，[Matters简介](https://matters.news/@leungkaichihk/%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%80%E8%AA%B2-%E7%B0%A1%E4%BB%8B%E5%8F%8A%E7%9B%AE%E9%8C%84-zdpuB2J818r8yUSDeZ4vDARrnQ4ut3S2UYjALXHJ16jp25w4P)
-- 哈玉宝，“[二十多年来伊斯兰教研究述论](https://pincong.rocks/article/1153)”，《新疆社会科学》2006年第2期
+- 哈玉宝，“[二十多年来伊斯兰教研究述论](https://damoresclub.github.io/chinese-islam-survey/)”，《新疆社会科学》2006年第2期
 - [冯哲盈、冯晓宇 : 社交媒体时代的网络民族主义](https://web.archive.org/web/20190501191958/http://zhanlve.org/p=6844) (小粉红画像)
 - 吴靖、卢南峰, [政治成熟的可能性：以“工业党”和“小粉红”的话语行动为例](https://ipfs.ink/e/QmSeZGnFq6fAioHXNTRytwXvkutZ2HNn84VDqxsvan9syy)
 - 姚新勇, [中国大陆种族民族主义观察](https://ipfs.ink/e/QmSsn4Va3zWMWLZ2tzw8PpLCgfHYgFv4ZS4PtwguN2o25u),原载于《原道》第17辑，首都师范大学出版社，2012年2月出版
@@ -90,7 +88,7 @@ Journal of Democracy, Volume 14, Number 1, Jan 2003
 - 【入门】若林正丈《台灣：分裂國家與民主化》
 - 【入门】Youtube台灣吧Taiwan Bar的動畫台灣史系列
 - 王育德 《台灣：苦悶的歷史》
-- 用户[台湾研究](https://pincong.rocks/people/%E5%8F%B0%E6%B9%BE%E7%A0%94%E7%A9%B6)整理的[台湾相关论文集合（](https://jingyuanpai.home.blog/taiwan/)民进党历史和现状、台独运动、社会转型等）
+- 用户[台湾研究] 整理的[台湾相关论文集合（](https://jingyuanpai.home.blog/taiwan/)民进党历史和现状、台独运动、社会转型等）
 
 --贡献者--
 
@@ -127,9 +125,9 @@ Journal of Democracy, Volume 14, Number 1, Jan 2003
 
 #### 阅读列表/主题论文集
 
-- （[匮名用户](https://pincong.rocks/people/%E5%8C%AE%E5%90%8D%E7%94%A8%E6%88%B7)推荐）[耶鲁政治科学研究生阅读清单 https://politicalscience.yale.edu/academics/graduate-program/field-readings-lists-requirements-and-exams](https://politicalscience.yale.edu/academics/graduate-program/field-readings-lists-requirements-and-exams)
+- （[匮名用户] 推荐）[耶鲁政治科学研究生阅读清单 https://politicalscience.yale.edu/academics/graduate-program/field-readings-lists-requirements-and-exams](https://politicalscience.yale.edu/academics/graduate-program/field-readings-lists-requirements-and-exams)
 
-- [用户南洋研究](https://pincong.rocks/people/%E5%8D%97%E6%B4%8B%E7%A0%94%E7%A9%B6)转载的[ 南洋各國對華人的態度](https://pincong.rocks/article/928)
+- [用户南洋研究] 转载的[ 南洋各國對華人的態度](https://deadly.pixnet.net/blog/post/27109357-%E5%8D%97%E6%B4%8B%E5%90%84%E5%9C%8B%E5%B0%8D%E8%8F%AF%E4%BA%BA%E7%9A%84%E6%85%8B%E5%BA%A6)
 
 
 #### 核心期刊
@@ -143,4 +141,4 @@ Journal of Democracy, Volume 14, Number 1, Jan 2003
 @fb_china_today
 
 ---
-（欢迎在[这里](https://pincong.rocks/article/4524)补充或评论，本帖目标是搜集从中学到博士阶段的基础政治学课程、社会通识课程）
+（欢迎在[这里](https://damoresclub.github.io/general-education-collection/)补充或评论，本帖目标是搜集从中学到博士阶段的基础政治学课程、社会通识课程）

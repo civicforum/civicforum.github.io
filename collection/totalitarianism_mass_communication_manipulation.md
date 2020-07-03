@@ -1,6 +1,6 @@
-## 新品葱[【资料汇集】极权主义、信息传播与意识操纵](https://web.archive.org/web/20191014192257/https://pincong.rocks/article/4604)
+## 新品葱[【资料汇集】极权主义、信息传播与意识操纵](https://damoresclub.github.io/totalitarianism-mass-communication-manipulation/)
 
-欢迎[推荐、留言、评论、打卡](https://pincong.rocks/article/4604)，侧重基础原理。
+欢迎[推荐、留言、评论、打卡](https://be4.herokuapp.com/category/22)，侧重基础原理。
 
 
 这个主题的核心目的在于揭示机构和国家对个人进行影响与操控的原理与技术，涉及新闻、传播、宣传、意识形态、公共关系、政治学等内容。目的在于避免舆论操控、判断信息源质量、获取高质量信息的知识和技能。
@@ -12,7 +12,7 @@
 
 ### 极权统治的原理
 
-- [【入门】鲍鹏山讲《商君书》，推荐度 ★★★★★ ](https://pincong.rocks/video/321)
+- [【入门】鲍鹏山讲《商君书》，推荐度 ★★★★★ ](https://www.youtube.com/watch?v=wxbZ6ujPxOg)
 - 【入门】乔治·奥威尔《1984》《动物庄园》，赫胥黎《美丽新世界》推荐度 ★★★
 - 张千帆, [极权主义的建构与解构](https://ipfs.ink/e/QmdRY16z6ZFrtHnDsJMBVukVta14Ri9Q4KNhUJ6SBGHQHa), 中国战略分析总第1期, 2017年01月13日
 - 马基雅维利,《君王论》Niccolò Machiavelli, "[_The Prince_](https://en.wikipedia.org/wiki/The_Prince)", 1532
@@ -25,8 +25,8 @@
 
 ### 渗透和颠覆（苏共输出革命、中国毛左派如何颠覆改革开放及港澳台、中共大外宣原理）
 
-- [【入门】Yuri Bezmenov: 欺骗是我的工作（完整版，英文）](https://pincong.rocks/video/322)
-- [【入门】Yuri Bezmenov:心理战争 颠覆和控制西方社会（完整版），推荐度 ★★★★★ ](https://pincong.rocks/video/323)
+- [【入门】Yuri Bezmenov: 欺骗是我的工作（完整版，英文）](https://www.youtube.com/watch?v=y3qkf3bajd4)
+- [【入门】Yuri Bezmenov:心理战争 颠覆和控制西方社会（完整版），推荐度 ★★★★★ ](https://www.youtube.com/watch?v=5gnpCqsXE8g)
 - [China’s Overseas United Front Work: Background and Implications for the United States](https://www.uscc.gov/sites/default/files/Research/China%27s%20Overseas%20United%20Front%20Work%20-%20Background%20and%20Implications%20for%20US_final_0.pdf) 中共海外统战工作如何影响华人与西方社会
 - [文革2.0时间线完整版](https://chinatimeline.github.io/ideology_backup1.html)
 
@@ -57,7 +57,7 @@ Distraction, not Engaged Argument.” American Political Science Review
 ### 宣传、公关、认知科学、心理学等
 
 - 心理学：认知偏误列表 [認知偏誤列表](https://www.wikiwand.com/zh-sg/%E8%AA%8D%E7%9F%A5%E5%81%8F%E8%AA%A4%E5%88%97%E8%A1%A8)
-- [免疫心理学](https://pincong.rocks/article/3418) @ikuyui 心理神经免疫学（[Psychoneuroimmunology](https://en.wikipedia.org/wiki/Psychoneuroimmunology)）[介绍1](https://www.ncbi.nlm.nih.gov/pubmed/18318882)，[介绍2](https://www.sciencedirect.com/topics/medicine-and-dentistry/psychoneuroimmunology)
+- [免疫心理学]() @ikuyui 心理神经免疫学（[Psychoneuroimmunology](https://en.wikipedia.org/wiki/Psychoneuroimmunology)）[介绍1](https://www.ncbi.nlm.nih.gov/pubmed/18318882)，[介绍2](https://www.sciencedirect.com/topics/medicine-and-dentistry/psychoneuroimmunology)
 
 
 ### 数字监控与集权
@@ -89,4 +89,4 @@ redditers: sunjinxiang, [-plenipotentiary-](https://www.reddit.com/user/-plenipo
 
 ---
 
-（如果你是相关领域学生或学者，欢迎在[这里](https://pincong.rocks/article/4604)补充或评论，本帖目标是搜集揭示极权统治与信息操控原理的基础知识，本页内容主要来自网友推荐，或受大众媒体影响较大）
+（如果你是相关领域学生或学者，欢迎在[这里](https://damoresclub.github.io/totalitarianism-mass-communication-manipulation/)补充或评论，本帖目标是搜集揭示极权统治与信息操控原理的基础知识，本页内容主要来自网友推荐，或受大众媒体影响较大）
