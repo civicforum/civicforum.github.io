@@ -1,4 +1,4 @@
-## [互联网收藏夹（好东西）](https://web.archive.org/web/20191015011910/https://pincong.rocks/article/2219)
+## [互联网收藏夹（好东西）](https://github.com/DamoresClub/DamoresClub.github.io/blob/master/tools.md)
 
 如果你发现了什么有意思的网站，可以把链接扔进来，注意扔之前检查一下，不要重复
 
@@ -14,7 +14,7 @@
 
 
 【社区】
-[https://2049bbs.xyz](https://2049bbs.xyz)
+[https://2049bbs.xyz](https://2049bbs.xyz) 站长已被捕，端点星案报道
 [https://program-think.blogspot.com](https://program-think.blogspot.com)
 [https://www.iyouport.org](https://www.iyouport.org)
 [https://terminus2049.github.io/](https://terminus2049.github.io/)
@@ -30,21 +30,20 @@
 网络/媒体常见陷阱：点击诱饵/煽情化报道
 [https://en.wikipedia.org/wiki/Clickbait](https://en.wikipedia.org/wiki/Clickbait)
 [https://en.wikipedia.org/wiki/Sensationalism](https://en.wikipedia.org/wiki/Sensationalism)
-[【置顶】提问、分类以及新手指南](https://pincong.rocks/article/2612)  |  [新品葱新版指北](https://pincong.rocks/article/1816)
+
 
 **【[站内项目](https://pincong.rocks/topic/%E7%AB%99%E5%86%85%E9%A1%B9%E7%9B%AE)】**
 
-- [品葱学院](https://pincong.rocks/explore/category-13)
-- [说说你知道的中文自由派学者（持续更新）](https://pincong.rocks/article/560)
-- [709被抓捕的维权律师现状](https://pincong.rocks/article/1137)
-- [推荐一些这片土地上的纪录片，附豆瓣或ytb链接](https://pincong.rocks/article/2208)
-- [如何才能善用YouTube？](https://pincong.rocks/question/2432)| [油管有哪些值得推荐的up主](https://pincong.rocks/question/110)
-- [有哪些好的RSS订阅源](https://pincong.rocks/question/110)
-- [公民大学50题](https://pincong.rocks/topic/%E5%85%AC%E6%B0%91%E5%A4%A7%E5%AD%A6)
+- [学院](https://be4.herokuapp.com/category/7/)
+- [说说你知道的中文自由派学者（持续更新）](https://be4.herokuapp.com/topic/494/)
+- [709被抓捕的维权律师现状](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B709%E7%B6%AD%E6%AC%8A%E5%BE%8B%E5%B8%AB%E5%A4%A7%E6%8A%93%E6%8D%95%E4%BA%8B%E4%BB%B6)
+- [推荐一些这片土地上的纪录片，附豆瓣或ytb链接](https://be4.herokuapp.com/category/15/)
+- [如何才能善用YouTube？](https://old.reddit.com/r/saraba2nd/comments/brsv7i/%E6%9C%89%E8%B6%A3%E7%9A%84youtube%E9%A2%91%E9%81%93%E6%8E%A8%E8%8D%90%E6%A5%BC/)
+- [有哪些好的RSS订阅源](https://be4-news.herokuapp.com)
+- [公民大学50题](https://be4.herokuapp.com/category/26/)
 - [西式公民大学34题](https://civicforum.github.io/collection/civic_western.html)
-- [你可能不知道的一些六四的细节](https://pincong.rocks/article/2040)
-- [Chinese Redditors征集优质Redditor言论搜集](https://pincong.rocks/article/2224)
-- [求政治学入门、民主普世价值学习的科班书籍或者科普书籍](https://pincong.rocks/question/5779)
+- [你可能不知道的一些六四的细节](https://be4.herokuapp.com/topic/143/)
+- [Chinese Redditors征集优质Redditor言论搜集](https://gitlab.com/redditcollection)
 
 **【站外项目】**
 
@@ -78,12 +77,6 @@
 - 中文版 政治学 安德鲁海伍德著 [https://ufile.io/iqhl8fko](https://ufile.io/iqhl8fko)
 - Media Studies 101, [https://opentextbc.ca/mediastudies101/](https://opentextbc.ca/mediastudies101/)
 
-**【高频话题汇总】** 请避免重复提问
-
-- [「如果中共倒台/中国民主之后」系列问题汇总（持续更新）](https://pincong.rocks/article/2362)
-- [如何反驳小粉红/五毛/自干五系列问题汇总（持续更新）](https://pincong.rocks/article/2361)
-
-（看得出来大家太希望中共倒台，中国民主，狂虐小粉红啦）
 
 维基百科 中国大陆网络用语列表 挺有意思，很多网络用语我也是第一次听说
 
