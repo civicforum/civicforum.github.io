@@ -1,9 +1,9 @@
-## 新品葱[【资料征集】文化、宗教与神学、艺术史（待完善）](https://web.archive.org/web/20191015010718/https://pincong.rocks/article/4723)
+## 新品葱[【资料征集】文化、宗教与神学、艺术史（待完善）](https://damoresclub.github.io/culture-religion-guide/)
 
 中国大陆人因为中共系统性的仇恨教育，常陷入“帝国主义亡我之心不死”、“争夺霸权”之类的狭隘的眼光去理解西方和整个世界。然而世界上其它地方的人到底在想什么？在乎什么呢？欧美文明中普通人的思维方式到底是怎样的？这就需要了解西方的文化、宗教甚至是神学，只有了解了这些之后才能理解西方人的思维方式跟在共产党的无神论唯物论教育培养出来的人的区别。对于文化、宗教、神学的理解，是理解西方的艺术、国际政治以及西方社会的基础，能帮助你用更广阔的视野去理解世界。
 
 
-欢迎[补充、留言、评论、打卡。帮助本页完善](https://pincong.rocks/article/4723)。
+欢迎[补充、留言、评论、打卡。帮助本页完善](https://damoresclub.github.io/culture-religion-guide/)。
 
 ---
 ### 【通识课程】
@@ -18,7 +18,7 @@
 - [https://www.biblegateway.com/ ](https://www.biblegateway.com/)：[中文CCB版](https://www.biblegateway.com/versions/Chinese-Contemporary-Bible-CCB/#booklist)
 - [https://biblehub.com/](https://biblehub.com/)
 - 中文版网页：https://holybible.com.cn/
-- [耶鲁公开课 《圣经旧约概论》YaleCourses: Introduction to the Old Testament (Hebrew Bible) by Christine Hayes](https://pincong.rocks/video/147)
+- [耶鲁公开课 《圣经旧约概论》YaleCourses: Introduction to the Old Testament (Hebrew Bible) by Christine Hayes](https://www.youtube.com/watch?v=mo-YL-lv3RY&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi)
 
 #### 基督教电子书
 
@@ -38,7 +38,7 @@
 #### 【伊斯兰教】
 
 - &lt;古兰经&gt; [https://quran.com/](https://quran.com/)
-- 哈玉宝，“[二十多年来伊斯兰教研究述论](https://pincong.rocks/article/1153)”，《新疆社会科学》2006年第2期
+- 哈玉宝，“[二十多年来伊斯兰教研究述论](https://damoresclub.github.io/chinese-islam-survey/)”，《新疆社会科学》2006年第2期
 
 
 #### 【无神论者】
@@ -63,4 +63,4 @@
 - 如何教K-12宗教（美国宗教学会）[https://www.aarweb.org/sites/default/files/pdfs/Publications/epublications/AARK-12CurriculumGuidelines.pdf](https://www.aarweb.org/sites/default/files/pdfs/Publications/epublications/AARK-12CurriculumGuidelines.pdf)
 
 ---
-本帖亟待完善，欢迎[在此补充](https://pincong.rocks/article/4723)任何你认为能帮助大家了解文化、宗教、艺术的内容。
+本帖亟待完善，欢迎[在此补充](https://damoresclub.github.io/culture-religion-guide/)任何你认为能帮助大家了解文化、宗教、艺术的内容。

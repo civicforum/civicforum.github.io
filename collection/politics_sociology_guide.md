@@ -21,7 +21,7 @@
 
 #### 政治学基础
 
-- 【基础必读】政治学教科书 Andrew Heywood, Politics, 4th Edition [https://ufile.io/46wqlh4h](https://ufile.io/46wqlh4h) ([一只鹿兒](https://pincong.rocks/people/%E4%B8%80%E5%8F%AA%E9%B9%BF%E5%85%92)推荐，台湾、大陆均有[中文翻译版本](https://uploadfiles.io/zuketl84)出版)，推荐度 ★★★★★
+- 【基础必读】政治学教科书 Andrew Heywood, Politics, 4th Edition [https://ufile.io/46wqlh4h](https://ufile.io/46wqlh4h) ([一只鹿兒](https://medium.com/@onedeeroneroad)推荐，台湾、大陆均有[中文翻译版本](https://uploadfiles.io/zuketl84)出版)，推荐度 ★★★★★
 - 政治科学概论(英) [Saylor Academy POLSC101: Introduction to Political Science ](https://learn.saylor.org/course/polsc101)，在线公开课“政治科学概论”，来自https://civicforum.github.io
 - 政治哲学：Harvard Open Courses, [Justice](https://online-learning.harvard.edu/course/justice), Professor Michael J. Sandel 【[油管列表](https://www.youtube.com/watchv=kBdfcR-8hEY&list=PL30C13C91CFFEFEA6)】哈佛大学公开课：公正-该如何做是好？ 网易中文，[官方英文](https://online-learning.harvard.edu/course/justice).，推荐度 ★★★★★
 - 政治哲学：[Political Philosophy: A Beginner's Guide for Students and Politicians](https://philpapers.org/rec/SWIPPA-3), Adam Swift, 2001

@@ -1,4 +1,4 @@
-## 新品葱[【资料征集】中小学通识教育/公民教育课本或课纲](https://web.archive.org/web/20191015010129/https://pincong.rocks/article/4525)
+## 新品葱[【资料征集】中小学通识教育/公民教育课本或课纲](https://damoresclub.github.io/general-education-collection/)
 
 原题目：求香港通识教育课本或课纲
 
@@ -19,7 +19,7 @@
 
 谢谢！3q2x
 
-### **（一）中小学社会通识课课本**（[求推荐](https://pincong.rocks/article/4525)）
+### **（一）中小学社会通识课课本**（[求推荐](https://be4.herokuapp.com/category/26/)）
 
 适合所有人，基础是最容易忽视的，但是最容易补课且对个人影响最深远的。
 
@@ -104,7 +104,7 @@ FB [https://www.facebook.com/pg/iknow.hkej/about/](https://www.facebook.com/pg/i
 
 
 #### 【美国通识教育】--@ignorantzoro 转发
-[转：10张图看懂哈佛通识教育的特质](https://pincong.rocks/article/4579)
+[转：10张图看懂哈佛通识教育的特质](https://web.archive.org/web/20190905030556/https://www.jiemodui.com/N/98242.html)
 
 #### 【（臺）公民與社會課程】  
 - 私立建臺中学高中部 [公民與社會教學科網站](https://bit.ly/2mhgCbq)）公民與社會課程綱要2005年，原始链接[https://bit.ly/2m96H7A](https://bit.ly/2m96H7A)，[PDF版本](https://ufile.io/p0l2mq79)
@@ -112,4 +112,4 @@ FB [https://www.facebook.com/pg/iknow.hkej/about/](https://www.facebook.com/pg/i
 
 ---
 
-欢迎在[这里](https://pincong.rocks/article/4525)补充
+欢迎在[这里](https://damoresclub.github.io/general-education-collection/)补充

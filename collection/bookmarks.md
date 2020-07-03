@@ -32,7 +32,7 @@
 [https://en.wikipedia.org/wiki/Sensationalism](https://en.wikipedia.org/wiki/Sensationalism)
 
 
-**【[站内项目](https://pincong.rocks/topic/%E7%AB%99%E5%86%85%E9%A1%B9%E7%9B%AE)】**
+**【站内项目】**
 
 - [学院](https://be4.herokuapp.com/category/7/)
 - [说说你知道的中文自由派学者（持续更新）](https://be4.herokuapp.com/topic/494/)
@@ -51,7 +51,7 @@
 - 中国时间线 [https://github.com/chinatimeline/data](https://github.com/chinatimeline/data)
 - 2049bbs [univtoo 网友发起分享被学校约谈经历](https://2049bbs.xyz/t/468)
 - 关于数字极权的资料 [https://newjrs.github.io/digitalTotalitarianism.html](https://newjrs.github.io/digitalTotalitarianism.html)
-- [打击假新闻](https://pincong.rocks/article/4864)ChinaFakeNews [https://github.com/nuclearfake9/ChinaFakeNews](https://github.com/nuclearfake9/ChinaFakeNews)
+- [打击假新闻]()ChinaFakeNews [https://github.com/nuclearfake9/ChinaFakeNews](https://github.com/nuclearfake9/ChinaFakeNews)
 
 **【人文公开课】**
 
@@ -343,7 +343,6 @@ https://www.guerrillamail.com/
 翻牆的基礎教程
 https://github.com/zhaoweih/Shadowsocks-Tutorial
 https://tinyurl.com/yxqcbsox
-https://pincong.rocks/article/6007
 https://program-think.blogspot.com/search/label/IT.%E7%BF%BB%E5%A2%99
 
 毒藥機場測評

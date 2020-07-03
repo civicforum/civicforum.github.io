@@ -7,7 +7,7 @@
 3. 记者无疆界(又譯 無國界記者) Reporters Without Borders https://rsf.org/en
   * 调查报告: [中国追求的世界传媒新秩序](./cn_rapport_chine-web_final_3.pdf), 2019-03-25
 4. Yuyu Chen, David Y. Yang, ["The Impact of Media Censorship: 1984 or Brave New World?"](https://site.stanford.edu/sites/g/files/sbiybj8706/f/3586-1984bravenewworld_draft.pdf), AMERICAN ECONOMIC REVIEW, VOL. 109, NO. 6, JUNE 2019, (pp. 2294-2332) 《1984还是美丽新世界？——分析中国媒体审查的影响》作者：陈玉宇教授（北京大学）, David Yang教授(斯坦福/MIT)，刊登于经济学界顶尖期刊《美国经济评论 American Economic Review》2019年6月号 （[Topdeckdog](https://www.reddit.com/user/Topdeckdog/)推荐）
-5. [Jennifer Pan](http://jenpan.com) （[台湾研究](https://pincong.rocks/people/%E5%8F%B0%E6%B9%BE%E7%A0%94%E7%A9%B6)推荐）
+5. [Jennifer Pan](http://jenpan.com) （[台湾研究](https:///people/%E5%8F%B0%E6%B9%BE%E7%A0%94%E7%A9%B6)推荐）
   * [中国政府如何编造社交媒体贴子以实现战略性的（对民众）分散注意力，不是参与争论](https://archive.md/dZysi). King, Gary, Pan, Jennifer and Margaret E. Roberts. 2017. “How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument.” American Political Science Review 111(3): 484-501. 2017. ([PDF](./50c.pdf), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QSZMPD))
 6. 通向极权统治的数字道路 [Digital Roads to Totalitarianism](https://link.springer.com/chapter/10.1007/978-3-030-00813-0_7) （[-plenipotentiary-](https://www.reddit.com/user/-plenipotentiary-/)推荐）
 7. [The Citizen Lab](https://citizenlab.ca/) （[-plenipotentiary-](https://www.reddit.com/user/-plenipotentiary-/)推荐）:
