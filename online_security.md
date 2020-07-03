@@ -1,6 +1,6 @@
 # [civicforum.github.io](https://civicforum.github.io)
 
-本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中，最近更新日期 2019/6/23
+本文内容部分由多位网友贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中，最近更新日期 2019/6/23
 
 目录
 * [安全意识](#mindset)
@@ -34,15 +34,15 @@ __翻墙，掉脑袋的事，千万别嫌麻烦！__ 为保障安全上网，你
 8. 不要发暴露身份信息的照片
 9. 不要标注地址信息
 10. 用境外邮箱: 推荐protonmail, 它不需要任何身份验证就能注册, 可以向普通邮箱发送邮件[https://protonmail.com/](https://protonmail.com/)  注意, 你需要牢记密码, 因为没人可以帮你找回密码，其它匿名邮箱 [Tutanota](https://tutanota.com/), [Openmailbox](https://www.openmailbox.org/), [Yandex Mail](https://mail.yandex.com/)。 如果你的目的是注册网站，可以考虑临时邮箱[http://www.bccto.me](http://www.bccto.me). 一些安全邮件提供商[https://imgchr.com/i/F7CsJK](https://imgchr.com/i/F7CsJK)
-11. 支持Tor的安全邮箱 [本站备份](./2019/tor_mailbox.md), [品葱](https://pincong.rocks/article/624), [Reddit原文](https://www.reddit.com/r/onions/comments/acodje/list_of_onion_email_providers_in_2019/)
+11. 支持Tor的安全邮箱 [本站备份](./2019/tor_mailbox.md), [Reddit原文](https://www.reddit.com/r/onions/comments/acodje/list_of_onion_email_providers_in_2019/)
 12. 此外, 再推荐几个相对安全的应用; MEGA [https://mega.nz/](https://mega.nz/)  是一个加密的云盘. [Uploadfiles.io](https://Uploadfiles.io)是一个匿名文件共享应用; Tor [https://www.torproject.org/](https://www.torproject.org/)  是一个高度匿名的浏览器, 但是也可能会遇到蜜罐节点. WIRE [https://wire.com](https://wire.com)  是一个开源的, 加密的聊天应用, 在网页上注册不需要电话号码. Telegram [https://telegram.org/](https://telegram.org/)  是一个用户多, 功能全的聊天应用, 也具有加密功能, 但是加密聊天并不默认开启, 而且只能使用电话号码注册; 用加密聊天软件 unseen [https://unseen.is/](https://unseen.is/)
 13. 除此之外, 你的输入法也可能被用来监视你, 因此不推荐使用国产的输入法.
 14. 文件分享 [https://send.firefox.com](https://send.firefox.com/), [https://drop.me](https://drop.me/), [openload.co](https://openload.co), [https://anonfiles.com](https://anonfiles.com), [https://www.mediafire.com/](https://www.mediafire.com/), [星際文件系統IPFS分享](https://ipfs-forever.github.io), 视频分享[https://ipfstube.erindachtler.me/](https://ipfstube.erindachtler.me/)
-15. 文本搬运与备份 [文檔分享ipfs.ink](https://ipfs.ink), [https://telegra.ph](https://telegra.ph), [安全上传图片至imgur图床](https://pincong.rocks/article/523), [https://www196.lunapic.com/](https://www196.lunapic.com/), [https://h.pincong.rocks](https://h.pincong.rocks), [https://memegenerator.net/](https://memegenerator.net/), [同時備份至多個Archive的機器人](https://github.com/oduwsdl/archivenow)
+15. 文本搬运与备份 [文檔分享ipfs.ink](https://ipfs.ink), [https://telegra.ph](https://telegra.ph), 安全上传图片至imgur图床 [https://www196.lunapic.com/](https://www196.lunapic.com/), [https://memegenerator.net/](https://memegenerator.net/), [同時備份至多個Archive的機器人](https://github.com/oduwsdl/archivenow)
 16. 阅后即焚 [https://naive.cf](https://naive.cf/) [https://privnote.com](https://privnote.com/)
 17. 短链接 [https://bit.do/](https://bit.do/), [https://goo.gl/](https://goo.gl/), [https://tiny.cc/](https://tiny.cc/), [https://bitly.com/](https://bitly.com/)
 18. 浏览器漏洞测试，JavaScripts WebRTC泄露IP地址 [漏洞描述](https://lcx.cc/post/4490/), 测试地址1 [ip.voidsec.com](https://ip.voidsec.com/), 测试地址2 [browserleaks.com/webrtc](https://browserleaks.com/webrtc), 测试地址3 [ipleak.org](https://ipleak.org/)
-19. 如果长期访问一个网站则存在 __时区泄漏__ 问题，[描述及补救措施](./2019/timezone_leak.md), [品葱原帖](https://pincong.rocks/article/575)
+19. 如果长期访问一个网站则存在 __时区泄漏__ 问题，[描述及补救措施](./2019/timezone_leak.md)
 20. 无需互联网仅靠蓝牙链接的通讯软件 [Firechat](https://www.opengarden.com/firechat/) 防止政府大规模断网
 
 ## 【相关资源】<a name="resources"></a>
