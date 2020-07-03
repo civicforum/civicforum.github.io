@@ -166,7 +166,7 @@
 6. [【资料征集】哲学与逻辑学](./collection/logics_philosophy.md)
 7. [【资料征集】经济、金融](./collection/econ_finance.md)
 8. [逻辑写作训练：GRE Argument高频题大纲（中文）pdf](./pdf/gre_argument_outline.pdf), [来源](https://github.com/Zhouzhiling/GRE/), [2049bbs](https://2049bbs.xyz/t/1602)
-9. [品葱互联网收藏夹 PDF版](./collection/pincong_rocks_article_2219.pdf)
+9. 互联网收藏夹：[达摩俱乐部-库藏](https://damoresclub.github.io/tools/)， [新品葱PDF版](./collection/pincong_rocks_article_2219.pdf)
 
 
 更新日期2019/9/15
